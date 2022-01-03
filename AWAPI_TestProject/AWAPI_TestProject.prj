@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>APITesting_KatalonStudio</name>
+   <name>AWAPI_TestProject</name>
    <tag></tag>
-   <UUID>0bda79da-fa06-4ffc-a67e-efe62665bc8c</UUID>
+   <UUID>e7b12e22-7064-42bf-b0d1-20d4745722c2</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -24,5 +24,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>GENERIC</type>
+   <type>WEBSERVICE</type>
 </Project>

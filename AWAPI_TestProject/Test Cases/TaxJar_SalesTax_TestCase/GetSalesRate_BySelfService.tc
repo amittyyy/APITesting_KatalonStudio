@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetSalesRate_BySelfService</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1e0f911-c442-4b59-8a0e-87e8373a89d2</testCaseGuid>
+</TestCaseEntity>
